@@ -34,7 +34,7 @@
             # Set a 200 (okay) response code.
             http_response_code(200);
             echo "Thank You! Your message has been sent.";
-            header("Location: https://www.example.com/", true, 302);
+            header("Location: https://blackdyetattoo.shop/", true, 302);
             exit;
         } else {
             # Set a 500 (internal server error) response code.
