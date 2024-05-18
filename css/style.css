@@ -832,7 +832,7 @@ blockquote cite:before {
     color: #904d30;
 }
 .nav-scroll {
-    background: #101010;
+    background: #000000;
     padding: 0 0 0 0;
     position: fixed;
     top: -100px;
